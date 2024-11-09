@@ -240,6 +240,8 @@ bool ThrowSequenceTo40(ErrorChecher& In, Void& Box, Null& hako) {//Plz Throw bac
 bool IsFateOnSequence(ErrorChecher& In, Void& Box, Null& hako) {
 	Bit B;
 	//do it.
+	//Search is 6.
+	//check is 8.
 	return B;
 }
 intmax_t GetErrorNumberBySequence(ErrorChecher& In, Void& Box, Null& hako) {
